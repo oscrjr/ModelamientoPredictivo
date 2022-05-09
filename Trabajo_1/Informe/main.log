@@ -1,0 +1,588 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.1.11)  21 MAR 2022 23:06
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**main.tex
+(./main.tex
+LaTeX2e <2020-10-01> patch level 4
+L3 programming layer <2021-02-18> (./fphw.cls
+Document Class: fphw 2019/03/19
+(/usr/local/texlive/2021/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+Package: fancyhdr 2021/01/28 v4.0.1 Extensive control of page headers and foote
+rs
+\f@nch@headwidth=\skip47
+\f@nch@O@elh=\skip48
+\f@nch@O@erh=\skip49
+\f@nch@O@olh=\skip50
+\f@nch@O@orh=\skip51
+\f@nch@O@elf=\skip52
+\f@nch@O@erf=\skip53
+\f@nch@O@olf=\skip54
+\f@nch@O@orf=\skip55
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2020/04/10 v1.4m Standard LaTeX document class
+(/usr/local/texlive/2021/texmf-dist/tex/latex/base/size11.clo
+File: size11.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
+)
+\c@part=\count179
+\c@section=\count180
+\c@subsection=\count181
+\c@subsubsection=\count182
+\c@paragraph=\count183
+\c@subparagraph=\count184
+\c@figure=\count185
+\c@table=\count186
+\abovecaptionskip=\skip56
+\belowcaptionskip=\skip57
+\bibindent=\dimen138
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/titlesec/titlesec.sty
+Package: titlesec 2019/10/16 v2.13 Sectioning titles
+\ttl@box=\box47
+\beforetitleunit=\skip58
+\aftertitleunit=\skip59
+\ttl@plus=\dimen139
+\ttl@minus=\dimen140
+\ttl@toksa=\toks15
+\titlewidth=\dimen141
+\titlewidthlast=\dimen142
+\titlewidthfirst=\dimen143
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(/usr/local/texlive/2021/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+))
+\Gm@cnth=\count187
+\Gm@cntv=\count188
+\c@Gm@tempcnt=\count189
+\Gm@bindingoffset=\dimen144
+\Gm@wd@mp=\dimen145
+\Gm@odd@mp=\dimen146
+\Gm@even@mp=\dimen147
+\Gm@layoutwidth=\dimen148
+\Gm@layoutheight=\dimen149
+\Gm@layouthoffset=\dimen150
+\Gm@layoutvoffset=\dimen151
+\Gm@dimlist=\toks17
+)
+\problembox=\box48
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2020/08/01 v1.3d Input encoding file
+\inpenc@prehook=\toks18
+\inpenc@posthook=\toks19
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2020/08/10 v2.0s Standard LaTeX package
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/psnfss/mathpazo.sty
+Package: mathpazo 2020/03/25 PSNFSS-v9.3 Palatino w/ Pazo Math (D.Puga, WaS) 
+\symupright=\mathgroup4
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2020/09/09 v1.2b Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2020/08/30 v1.4c Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen152
+\Gin@req@width=\dimen153
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/booktabs/booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen154
+\lightrulewidth=\dimen155
+\cmidrulewidth=\dimen156
+\belowrulesep=\dimen157
+\belowbottomsep=\dimen158
+\aboverulesep=\dimen159
+\abovetopsep=\dimen160
+\cmidrulesep=\dimen161
+\cmidrulekern=\dimen162
+\defaultaddspace=\dimen163
+\@cmidla=\count190
+\@cmidlb=\count191
+\@aboverulesep=\dimen164
+\@belowrulesep=\dimen165
+\@thisruleclass=\count192
+\@lastruleclass=\count193
+\@thisrulewidth=\dimen166
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count194
+\lst@gtempboxa=\box49
+\lst@token=\toks20
+\lst@length=\count195
+\lst@currlwidth=\dimen167
+\lst@column=\count196
+\lst@pos=\count197
+\lst@lostspace=\dimen168
+\lst@width=\dimen169
+\lst@newlines=\count198
+\lst@lineno=\count199
+\lst@maxwidth=\dimen170
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
+\c@lstnumber=\count266
+\lst@skipnumbers=\count267
+\lst@framebox=\box50
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2020/03/24 1.8d listings configuration
+))
+Package: listings 2020/03/24 1.8d (Carsten Heinz)
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/tools/enumerate.sty
+Package: enumerate 2015/07/23 v3.00 enumerate extensions (DPC)
+\@enLab=\toks21
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/lscape.sty
+Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/tools/longtable.sty
+Package: longtable 2020/01/07 v4.13 Multi-page Table package (DPC)
+\LTleft=\skip60
+\LTright=\skip61
+\LTpre=\skip62
+\LTpost=\skip63
+\LTchunksize=\count268
+\LTcapwidth=\dimen171
+\LT@head=\box51
+\LT@firsthead=\box52
+\LT@foot=\box53
+\LT@lastfoot=\box54
+\LT@cols=\count269
+\LT@rows=\count270
+\c@LT@tables=\count271
+\c@LT@chunks=\count272
+\LT@p@ftn=\toks22
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/tools/multicol.sty
+Package: multicol 2019/12/09 v1.8y multicolumn formatting (FMi)
+\c@tracingmulticols=\count273
+\mult@box=\box55
+\multicol@leftmargin=\dimen172
+\c@unbalance=\count274
+\c@collectmore=\count275
+\doublecol@number=\count276
+\multicoltolerance=\count277
+\multicolpretolerance=\count278
+\full@width=\dimen173
+\page@free=\dimen174
+\premulticols=\dimen175
+\postmulticols=\dimen176
+\multicolsep=\skip64
+\multicolbaselineskip=\skip65
+\partial@page=\box56
+\last@line=\box57
+\maxbalancingoverflow=\dimen177
+\mult@rightbox=\box58
+\mult@grightbox=\box59
+\mult@gfirstbox=\box60
+\mult@firstbox=\box61
+\@tempa=\box62
+\@tempa=\box63
+\@tempa=\box64
+\@tempa=\box65
+\@tempa=\box66
+\@tempa=\box67
+\@tempa=\box68
+\@tempa=\box69
+\@tempa=\box70
+\@tempa=\box71
+\@tempa=\box72
+\@tempa=\box73
+\@tempa=\box74
+\@tempa=\box75
+\@tempa=\box76
+\@tempa=\box77
+\@tempa=\box78
+\@tempa=\box79
+\@tempa=\box80
+\@tempa=\box81
+\@tempa=\box82
+\@tempa=\box83
+\@tempa=\box84
+\@tempa=\box85
+\@tempa=\box86
+\@tempa=\box87
+\@tempa=\box88
+\@tempa=\box89
+\@tempa=\box90
+\@tempa=\box91
+\@tempa=\box92
+\@tempa=\box93
+\@tempa=\box94
+\@tempa=\box95
+\@tempa=\box96
+\@tempa=\box97
+\@tempa=\box98
+\c@minrows=\count279
+\c@columnbadness=\count280
+\c@finalcolumnbadness=\count281
+\last@try=\dimen178
+\multicolovershoot=\dimen179
+\multicolundershoot=\dimen180
+\mult@nat@firstbox=\box99
+\colbreak@box=\box100
+\mc@col@check@num=\count282
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/tools/array.sty
+Package: array 2020/10/01 v2.5c Tabular extension package (FMi)
+\col@sep=\dimen181
+\ar@mcellbox=\box101
+\extrarowheight=\dimen182
+\NC@list=\toks23
+\extratabsurround=\skip66
+\backup@length=\skip67
+\ar@cellbox=\box102
+)
+LaTeX Font Info:    Trying to load font information for T1+ppl on input line 69
+.
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/psnfss/t1ppl.fd
+File: t1ppl.fd 2001/06/04 font definitions for T1/ppl.
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2021-03-18 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count283
+\l__pdf_internal_box=\box103
+)
+(./main.aux
+
+LaTeX Warning: Label `lst:stepwise' multiply defined.
+
+)
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 69.
+LaTeX Font Info:    ... okay on input line 69.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 69.
+LaTeX Font Info:    ... okay on input line 69.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 69.
+LaTeX Font Info:    ... okay on input line 69.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 69.
+LaTeX Font Info:    ... okay on input line 69.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 69.
+LaTeX Font Info:    ... okay on input line 69.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 69.
+LaTeX Font Info:    ... okay on input line 69.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 69.
+LaTeX Font Info:    ... okay on input line 69.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(71.13188pt, 455.24411pt, 71.13188pt)
+* v-part:(T,H,B)=(71.13188pt, 702.78308pt, 71.13188pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=455.24411pt
+* \textheight=702.78308pt
+* \oddsidemargin=-1.1381pt
+* \evensidemargin=-1.1381pt
+* \topmargin=-38.1381pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=11.0pt
+* \footskip=30.0pt
+* \marginparwidth=50.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+\big@size=\dimen183
+(/usr/local/texlive/2021/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count284
+\scratchdimen=\dimen184
+\scratchbox=\box104
+\nofMPsegments=\count285
+\nofMParguments=\count286
+\everyMPshowfont=\toks24
+\MPscratchCnt=\count287
+\MPscratchDim=\dimen185
+\MPnumerator=\count288
+\makeMPintoPDFobject=\count289
+\everyMPtoPDFconversion=\toks25
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+\c@lstlisting=\count290
+LaTeX Font Info:    Trying to load font information for TS1+ppl on input line 7
+1.
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/psnfss/ts1ppl.fd
+File: ts1ppl.fd 2001/06/04 font definitions for TS1/ppl.
+)
+Overfull \hbox (1.07068pt too wide) in paragraph at lines 84--85
+[]\T1/ppl/m/n/10.95 TIPO_PRODUCTO: Tipo de pro-ducto con el que se de-sar-rolló
+ el fraude (Tar-jeta de Crédito
+ []
+
+[1
+
+{/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+LaTeX Font Info:    Trying to load font information for OT1+ppl on input line 9
+6.
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/psnfss/ot1ppl.fd
+File: ot1ppl.fd 2001/06/04 font definitions for OT1/ppl.
+)
+LaTeX Font Info:    Trying to load font information for OML+zplm on input line 
+96.
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/psnfss/omlzplm.fd
+File: omlzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OML/zplm.
+)
+LaTeX Font Info:    Trying to load font information for OMS+zplm on input line 
+96.
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/psnfss/omszplm.fd
+File: omszplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMS/zplm.
+)
+LaTeX Font Info:    Trying to load font information for OMX+zplm on input line 
+96.
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/psnfss/omxzplm.fd
+File: omxzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMX/zplm.
+)
+LaTeX Font Info:    Trying to load font information for OT1+zplm on input line 
+96.
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/psnfss/ot1zplm.fd
+File: ot1zplm.fd 2002/09/08 Fontinst v1.914 font definitions for OT1/zplm.
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2020/03/24 1.8d listings language file
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/listings/lstlang2.sty
+File: lstlang2.sty 2020/03/24 1.8d listings language file
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/listings/lstlang3.sty
+File: lstlang3.sty 2020/03/24 1.8d listings language file
+)
+(./sample.r) [2]
+<Hist1.pdf, id=12, 650.43pt x 386.44376pt>
+File: Hist1.pdf Graphic file (type pdf)
+<use Hist1.pdf>
+Package pdftex.def Info: Hist1.pdf  used on input line 132.
+(pdftex.def)             Requested size: 426.79134pt x 253.5795pt.
+ [3 <./Hist1.pdf>]
+<tipo_prod.pdf, id=25, 347.2975pt x 386.44376pt>
+File: tipo_prod.pdf Graphic file (type pdf)
+<use tipo_prod.pdf>
+Package pdftex.def Info: tipo_prod.pdf  used on input line 142.
+(pdftex.def)             Requested size: 256.0748pt x 284.94968pt.
+<tipo_cliente.pdf, id=26, 347.2975pt x 386.44376pt>
+File: tipo_cliente.pdf Graphic file (type pdf)
+<use tipo_cliente.pdf>
+Package pdftex.def Info: tipo_cliente.pdf  used on input line 150.
+(pdftex.def)             Requested size: 256.0748pt x 284.94968pt.
+ [4 <./tipo_prod.pdf> <./tipo_cliente.pdf>]
+<n_operaciones.pdf, id=42, 505.89pt x 319.1925pt>
+File: n_operaciones.pdf Graphic file (type pdf)
+<use n_operaciones.pdf>
+Package pdftex.def Info: n_operaciones.pdf  used on input line 158.
+(pdftex.def)             Requested size: 369.88582pt x 233.3836pt.
+<n_fraudes.pdf, id=43, 578.16pt x 386.44376pt>
+File: n_fraudes.pdf Graphic file (type pdf)
+<use n_fraudes.pdf>
+Package pdftex.def Info: n_fraudes.pdf  used on input line 166.
+(pdftex.def)             Requested size: 369.88582pt x 247.2288pt.
+
+[5 <./n_operaciones.pdf> <./n_fraudes.pdf>] [6]
+Overfull \hbox (7.90291pt too wide) in paragraph at lines 232--233
+[] \T1/ppl/b/n/10.95 Creación de la vari-able MONTO_PROM_OPERACION. \T1/ppl/m/n
+/10.95 Se creó la vari-able MON-TO_PROM_-
+ []
+
+
+Overfull \hbox (16.0508pt too wide) in paragraph at lines 251--252
+[]\T1/ppl/m/n/10.95 GRUPO2_NF: 1, 4, 5, 6, 8 fraudes an-te-ri-ores. Me-dia de l
+a vari-able ob-je-tivo igual a $1.330.123.9 
+ []
+
+[7] [8]
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 296.
+
+
+LaTeX Warning: Float too large for page by 23.56595pt on input line 342.
+
+[9]
+<corr4.pdf, id=75, 542.025pt x 542.025pt>
+File: corr4.pdf Graphic file (type pdf)
+<use corr4.pdf>
+Package pdftex.def Info: corr4.pdf  used on input line 360.
+(pdftex.def)             Requested size: 433.62pt x 433.63712pt.
+<correlacion.pdf, id=76, 469.755pt x 469.755pt>
+File: correlacion.pdf Graphic file (type pdf)
+<use correlacion.pdf>
+Package pdftex.def Info: correlacion.pdf  used on input line 370.
+(pdftex.def)             Requested size: 397.48499pt x 397.48734pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[10
+
+
+ <./corr4.pdf>]
+<box1.pdf, id=86, 261.3256pt x 224.30266pt>
+File: box1.pdf Graphic file (type pdf)
+<use box1.pdf>
+Package pdftex.def Info: box1.pdf  used on input line 385.
+(pdftex.def)             Requested size: 156.49014pt x 134.32593pt.
+<box2.pdf, id=87, 264.57594pt x 225.83052pt>
+File: box2.pdf Graphic file (type pdf)
+<use box2.pdf>
+Package pdftex.def Info: box2.pdf  used on input line 385.
+(pdftex.def)             Requested size: 156.49014pt x 133.57654pt.
+<box3.pdf, id=88, 265.31546pt x 227.2697pt>
+File: box3.pdf Graphic file (type pdf)
+<use box3.pdf>
+Package pdftex.def Info: box3.pdf  used on input line 387.
+(pdftex.def)             Requested size: 156.49014pt x 134.04979pt.
+<box4.pdf, id=89, 260.85394pt x 230.67949pt>
+File: box4.pdf Graphic file (type pdf)
+<use box4.pdf>
+Package pdftex.def Info: box4.pdf  used on input line 387.
+(pdftex.def)             Requested size: 156.49014pt x 138.39114pt.
+<box5.pdf, id=90, 268.82936pt x 231.99461pt>
+File: box5.pdf Graphic file (type pdf)
+<use box5.pdf>
+Package pdftex.def Info: box5.pdf  used on input line 389.
+(pdftex.def)             Requested size: 156.49014pt x 135.04547pt.
+<box6.pdf, id=91, 262.54337pt x 231.5363pt>
+File: box6.pdf Graphic file (type pdf)
+<use box6.pdf>
+Package pdftex.def Info: box6.pdf  used on input line 389.
+(pdftex.def)             Requested size: 156.49014pt x 138.01134pt.
+<box7.pdf, id=92, 264.539pt x 228.6314pt>
+File: box7.pdf Graphic file (type pdf)
+<use box7.pdf>
+Package pdftex.def Info: box7.pdf  used on input line 391.
+(pdftex.def)             Requested size: 156.49014pt x 135.25067pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[11 <./correlacion.pdf>]
+
+LaTeX Warning: Text page 12 contains only floats.
+
+
+Overfull \vbox (3.75804pt too high) has occurred while \output is active []
+
+
+[12 <./box1.pdf> <./box2.pdf> <./box3.pdf> <./box4.pdf> <./box5.pdf> <./box6.pd
+f> <./box7.pdf>]
+Underfull \hbox (badness 10000) in paragraph at lines 408--409
+[]\T1/ppl/m/n/10.95 Desarrolle al menos 3 mod-e-los de re-gre-sión lin-eal, su-
+per-visando la vari-able
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 423--432
+
+ []
+
+(./mod1_bruto.r)
+Overfull \hbox (2.41704pt too wide) in paragraph at lines 450--451
+[]\T1/ppl/m/n/10.95 Las tres vari-ables fueron sig-ni-fica-ti-vas para el mod-e
+lo, siendo N OP-ERA-CIONES y FLAG_
+ []
+
+[13]
+Underfull \hbox (badness 10000) in paragraph at lines 466--475
+
+ []
+
+(./mod2_dicotomizado.r) [14]
+Underfull \hbox (badness 10000) in paragraph at lines 512--521
+
+ []
+
+(./mod3_stepwise.r
+Overfull \hbox (4.6596pt too wide) in paragraph at lines 4--5
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+) [15]
+Underfull \hbox (badness 10000) in paragraph at lines 557--566
+
+ []
+
+(./mod4_log.r) [16]
+Underfull \hbox (badness 10000) in paragraph at lines 638--639
+
+ []
+
+[17] (./main.aux)
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 5509 strings out of 478994
+ 73671 string characters out of 5858184
+ 578797 words of memory out of 5000000
+ 22896 multiletter control sequences out of 15000+600000
+ 436097 words of font info for 88 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 83i,14n,88p,341b,1926s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
+exlive/2021/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/local/texlive/
+2021/texmf-dist/fonts/type1/urw/palatino/uplbi8a.pfb></usr/local/texlive/2021/t
+exmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2021/texmf-di
+st/fonts/type1/urw/palatino/uplri8a.pfb>
+Output written on main.pdf (17 pages, 217200 bytes).
+PDF statistics:
+ 174 PDF objects out of 1000 (max. 8388607)
+ 119 compressed objects within 2 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 71 words of extra memory for PDF output out of 10000 (max. 10000000)
+
